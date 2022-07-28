@@ -7,6 +7,12 @@
 
 ## 참고 사이트
 
+* https://blog.naver.com/chandong83/221966470981 ->  OTP 구현 (Python)
+* https://zero-gravity.tistory.com/221 -> Googl OTP 구현 (JAVA)
+* https://thinkingfactory.tistory.com/989 -> Twilo를 이용해서 문자 보내기 기능 (Python)
+* https://gdbs.tistory.com/498 -> URL을 QR 코드로 변환
+* https://appia.tistory.com/353 -> 필로우를 통한 png 출력
+
 ## 코드 구현
 ```Python
 from cryptography.fernet import Fernet # symmetric encryption
