@@ -1,1 +1,10 @@
-# Python-OTP-DataEncryption
+# OTP기능 및 DB 정보 암호화
+## 기능 구현
+* OTP 로그인 기능 구현
+* 확인 문자 전송 기능
+* QR 코드를 통한 구글 OTP 연결
+* txt파일에 기록된 DB 정보 암호화
+
+## 참고 사이트
+
+## 코드 구현
